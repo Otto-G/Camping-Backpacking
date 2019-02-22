@@ -10,10 +10,10 @@ Liquid logic Sylva,4.293,57,49,
 ## Camping/kayaking,,,,
 ,,,,
 Item,"Description","Weight(g)","Volume (L)",Cost ($)
-PFD,"Astral Greenjacket","	","	",$200 
+PFD,"Astral Greenjacket",1315,N/A,$270 
 Spray skirt,"Snapdragon L","	","	",
-Paddle,"Aquabound Manta Ray","	",,$180 
-Dry top/dry suit,"IR rival","	","	",$130 
+Paddle,"Aquabound Manta Ray",836,N/A,$200
+Dry top/dry suit,"IR rival",862,"	",$275
 Dry top/dry suit,"Kokatat icon","	",,$1125
 Head protection/cover,WRSI Full Face,,,
 Head protection/cover,WRSI Normal,,,
