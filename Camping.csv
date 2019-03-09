@@ -9,41 +9,46 @@ Liquid logic Sylva,4.343,56.5,49,
 ,,,,
 ## Camping/kayaking,,,,
 ,,,,
-Item,"Description","Weight(g)","Volume (L)",Cost ($)
-PFD,"Astral Greenjacket",1315,N/A,$270 
-Spray skirt,"Snapdragon L","	","	",
-Paddle,"Aquabound Manta Ray",836,N/A,$200
-Dry top/dry suit,"IR rival",862,N/A,$275
-Dry top/dry suit,"Kokatat icon",1542,N/A,$1125
-Head protection/cover,WRSI Moment,907,N/A,$160
-Head protection/cover,WRSI Current,658,N/A,$100
-Head protection/cover,Outdoor Research Sombriolet,88,N/A,$42
-Hammock,Hammock bliss double w/bug net,800,1,$88
-Suspension System,Dutch clip with Whoopie sling,,,$65 
-Sleeping bag,Cat's meow,1276,15,$100
-Underquilt,Eno Ember 2,709,10,$100
-Tarp,Yukon Outfitters Walkabout,391,1.5,$40
-Pillow,Sea to Summit Aeros,79,.5,$35
-Stove,Wood gas stove,,,
-Cook pot,Al scout pot,,,
-Day clothes,Synthetic Long sleeve,,,
-Day clothes,REI Sweater,,,
-Day clothes,Uniqlo fleece pants,,,
-Day clothes,Bn3th underwear,,,
-Shoes,Astral Hiyaks,,,
-Shoes,Merrel Boots,,,
+Item,Description,Weight(g),Volume (L),Cost ($)
+PFD,Astral Greenjacket",1315,N/A,$270 
+Spray skirt,Snapdragon L,,,
+Paddle,Aquabound Manta Ray,836,N/A,$200
+Dry top/dry suit,"IR rival",543,N/A,$275
+Dry top/dry suit,"Kokatat icon",1556,N/A,$1125
+Head protection/cover,WRSI Moment,772,N/A,$160
+Head protection/cover,WRSI Current,628,N/A,$100
+Head protection/cover,Outdoor Research Sombriolet,84,N/A,$42
+Hammock,Hammock bliss double w/bug net,700,1,$88
+Suspension System,Dutch clip with Whoopie sling,87,N/A,$65 
+Sleeping bag,Cat's meow,1251,15,$100
+Sleeping bag,Stuff sack,68,N/A,N/A
+Underquilt,Eno Ember 2,641,10,$100
+Tarp,Yukon Outfitters Walkabout,466,1.5,$40
+Pillow,Sea to Summit Aeros,105,.5,$35
+Stove,Wood gas stove with bag,528,1,
+Cook pot,Al scout pot with lid,102,,
+Day clothes,Synthetic Long sleeve,156,,
+Day clothes,REI Sweater,417,,
+Day clothes,Uniqlo fleece pants,386,,
+Day clothes,Bn3th underwear,86,,
+Shoes,Astral Hiyaks,656,N/A,
+Shoes,Astral porters,472,N/A,
+Shoes,Merrel Boots,925,,
+Shoes,Dirty girl gaiters,31,N/A,
 Camp Clothes,Wool shirt,,,
 Camp Clothes,Wool Pants,,,
-Camp Clothes,Rainbow Flip Flops,,,
-Rain gear,Columbia Arcadia II,303,1,$60
-Coat,LL bean 850 ultralight jacket,530,,$200
+Camp Clothes,Rainbow Flip Flops,493,,
+Rain gear,Columbia Arcadia II,428,1,$60
+Camp gear,Thermarest Z seat,62,2,
+Coat,LL bean 850 ultralight jacket,462,1.5,$200
 Food,Snacks,,,
-Food,Mountain house Rice and chicken,,,$7
+Food,Mountain house Rice and chicken,205,,$7
 Food,Mountain house breakfast,,,
 Food bag,,,,
-Water bottle,Nalgene,,1,
-Water bottle,Dasani bottle,,0.5,
-Water filter,Platypus gravity Filter,,,
+Water bottle,Nalgene,205,1,
+Water bottle,Dasani bottle,11,0.5,
+Water filter,Platypus gravity Filter with bag,328,,
+Water Purification,Katadyn Micropur MP1,25,0.25,
 Toothbrush,,,,
 Tooth paste,,,,
 Toilet paper,,,,
@@ -52,8 +57,8 @@ Shovel (If allowed in area),Coughlin plastic shovel,,,
 Hand sanitizer,,,,
 Soap,,,,
 Daily medicine,,,,
-Pack,Camp trails Blackjack 1,1542,,
-Dry Bag,Watershed Salmon,,22,
-Dry Bag,Watershed Ocoee,,10,
+Pack,Camp trails Blackjack 1,1527,,
+Dry Bag,Watershed Salmon,824,22,
+Dry Bag,Watershed Ocoee,660,10,
 Dry Bag,Seals,,10,
 Dry Bag,Seals,,5,
